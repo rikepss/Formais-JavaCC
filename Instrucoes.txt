@@ -1,0 +1,8 @@
+Instruções de como executar o analisador léxico:
+Requisitos: JDK e JavaCC instalados
+
+1. Extraia a pasta "T2" presente no .rar 
+2. Neste novo diretório, execute no prompt o seguinte comando 
+	"java BC < exemploX.bc" 
+	(onde "exemploX" é o arquivo .bc desejado)
+3. Programa executado!
